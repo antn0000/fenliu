@@ -50,7 +50,7 @@ DOMAIN-SUFFIX,tvbusa.com
 DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
 ## >> encoreTVB
-USER-AGENT,encoreTVB*
+USER-AGENT,encoreTVB
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,content.jwplatform.com
 DOMAIN-SUFFIX,videos-f.jwpsrv.com
