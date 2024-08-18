@@ -8,6 +8,16 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,ottdns.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,cache.ott.ystenlive.itv.cmvideo.cn:
+DOMAIN-KEYWORD,pixman.io.ystenlive.dnsany.com
+DOMAIN-KEYWORD,cache.ott.bestlive.itv.cmvideo.cn:
+DOMAIN-KEYWORD,pixman.io.bestlive.dnsany.com
+DOMAIN-KEYWORD,cache.ott.wasulive.itv.cmvideo.cn:
+DOMAIN-KEYWORD,pixman.io.wasulive.dnsany.com
+DOMAIN-KEYWORD,cache.ott.fifalive.itv.cmvideo.cn:
+DOMAIN-KEYWORD,pixman.io.fifalive.dnsany.com
+DOMAIN-KEYWORD,cache.ott.hnbblive.itv.cmvideo.cn:
+DOMAIN-KEYWORD,pixman.io.hnbblive.dnsany.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
