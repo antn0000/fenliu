@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,youtube.com,Proxy
 DOMAIN-SUFFIX,mytvsuper.com,Proxy
 DOMAIN-SUFFIX,thetvapp.to,Proxy
 DOMAIN-SUFFIX,cdn.hinet.net,Taiwan
+DOMAIN-SUFFIX,z88.ubtvfans.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
