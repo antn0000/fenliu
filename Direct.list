@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,cctv.cn,DIRECT
 DOMAIN-SUFFIX,yangshipin.cn,DIRECT
 DOMAIN-SUFFIX,gcable.cn,DIRECT
 
-
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,cache.ott.ystenlive.itv.cmvideo.cn:
