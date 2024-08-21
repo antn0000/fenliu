@@ -21,6 +21,7 @@ DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,stream-link.org
 DOMAIN-KEYWORD,stream-link
 DOMAIN-KEYWORD,stream
+DOMAIN-KEYWORD,z88.ubtvfans
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
