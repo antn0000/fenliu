@@ -1,7 +1,5 @@
 # NAME: IPTV's HamiVideo
-# AUTHOR: Huazi
-# UPDATED: 2024-09-14 23:00:00
-payload:
-  - DOMAIN-KEYWORD,hamivideo
-  - DOMAIN-SUFFIX,litv.tv
-  - DOMAIN-SUFFIX,cdn.hinet.net
+
+DOMAIN-KEYWORD,hamivideo
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,cdn.hinet.net
