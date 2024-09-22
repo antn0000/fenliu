@@ -2,7 +2,7 @@
 # AUTHOR: Huazi
 # UPDATED: 2024-09-14 23:00:00
 payload:
-  - DOMAIN-SUFFIX,mytvsuper.com
-  - DOMAIN-SUFFIX,tvb.com
-  - DOMAIN-SUFFIX,hoy.tv
-  - IP-CIDR,202.126.54.0/24
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,hoy.tv
+IP-CIDR,202.126.54.0/24
