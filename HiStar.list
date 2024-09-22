@@ -1,5 +1,7 @@
 # NAME: IPTV's 星视界
-
-DOMAIN-KEYWORD,ulivetv
-DOMAIN-SUFFIX,histar.tv
-
+# AUTHOR: Huazi
+# UPDATED: 2024-09-14 23:00:00
+payload:
+  - DOMAIN-KEYWORD,ulivetv
+  - DOMAIN-SUFFIX,histar.tv
+  - IP-CIDR,47.254.5.27/32
