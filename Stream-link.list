@@ -1,18 +1,16 @@
 # NAME: IPTV's Stream-Link
-# AUTHOR: Huazi
-# UPDATED: 2024-09-14 23:00:00
-payload:
-  - DOMAIN,beesport.livednow.com
-  - DOMAIN-KEYWORD,stream-link
-  - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,rttv.com
-  - DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-SUFFIX,tang.hz.cz
-  - DOMAIN-SUFFIX,heimuer.tv
-  - DOMAIN-SUFFIX,uvod.tv
-  - DOMAIN-SUFFIX,olelive.com
-  - DOMAIN-SUFFIX,ubtvfans.com
-  - DOMAIN-SUFFIX,livecdn.me
-  - DOMAIN-SUFFIX,youtube-player.me
-  - DOMAIN-SUFFIX,endpnt.com
-  - DOMAIN-SUFFIX,wurl.tv
+
+DOMAIN,beesport.livednow.com
+DOMAIN-KEYWORD,stream-link
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,rttv.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,tang.hz.cz
+DOMAIN-SUFFIX,heimuer.tv
+DOMAIN-SUFFIX,uvod.tv 
+DOMAIN-SUFFIX,olelive.com
+DOMAIN-SUFFIX,ubtvfans.com
+DOMAIN-SUFFIX,livecdn.me
+DOMAIN-SUFFIX,youtube-player.me
+DOMAIN-SUFFIX,endpnt.com
+DOMAIN-SUFFIX,wurl.tv
