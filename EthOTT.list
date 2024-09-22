@@ -1,11 +1,9 @@
 # NAME: IPTV's EthOTT
-# AUTHOR: Huazi
-# UPDATED: 2024-09-14 23:00:00
-payload:
-  - DOMAIN-KEYWORD,cookeryvideo
-  - DOMAIN-KEYWORD,bicyclefurnishings
-  - DOMAIN-SUFFIX,176868.cloud
-  - DOMAIN-SUFFIX,tv6868.com
-  - DOMAIN-SUFFIX,ott6868.com
-  - DOMAIN-SUFFIX,276868.cloud
-  - DOMAIN-SUFFIX,gent6868.com
+
+DOMAIN-KEYWORD,cookeryvideo
+DOMAIN-KEYWORD,bicyclefurnishings
+DOMAIN-SUFFIX,176868.cloud
+DOMAIN-SUFFIX,tv6868.com
+DOMAIN-SUFFIX,ott6868.com
+DOMAIN-SUFFIX,276868.cloud
+DOMAIN-SUFFIX,gent6868.com
