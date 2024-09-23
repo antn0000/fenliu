@@ -1,5 +1,5 @@
 # NAME: IPTV's MyTvSuper
-# AUTHOR: Huazi
+# AUTHOR: antn0000i
 # UPDATED: 2024-09-14 23:00:00
 payload:
   - DOMAIN-SUFFIX,mytvsuper.com
