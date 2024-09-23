@@ -1,15 +1,15 @@
 # NAME: IPTV's JudyTV[TG]
 # AUTHOR: antn0000
 # UPDATED: 2024-09-14 23:00:00
-payload:
-  - DOMAIN-SUFFIX,567852.xyz
-  - DOMAIN-SUFFIX,nolive.livednow.com
-  - DOMAIN-SUFFIX,uy.ts.ulivetv.net
-  - DOMAIN-SUFFIX,pluto.tv
-  - DOMAIN-SUFFIX,stream.yann.ooo
-  - DOMAIN-SUFFIX,livednow.us.kg
-  - DOMAIN-SUFFIX,mytvsuper.us.kg
-  - DOMAIN-SUFFIX,mytvsuper.xyz
-  - DOMAIN-SUFFIX,mytvsuper.com.mp
-  - DOMAIN-SUFFIX,lifemx.me
-  - IP-CIDR,142.4.119.0/24
+# DOMAIN-SUFFIX: 10
+DOMAIN-SUFFIX,567852.xyz
+DOMAIN-SUFFIX,nolive.livednow.com
+DOMAIN-SUFFIX,uy.ts.ulivetv.net
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,stream.yann.ooo
+DOMAIN-SUFFIX,livednow.us.kg
+DOMAIN-SUFFIX,mytvsuper.us.kg
+DOMAIN-SUFFIX,mytvsuper.xyz
+DOMAIN-SUFFIX,mytvsuper.com.mp
+DOMAIN-SUFFIX,lifemx.me
+IP-CIDR,142.4.119.0/24
