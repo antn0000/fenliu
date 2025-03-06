@@ -2,13 +2,13 @@
 # AUTHOR: antn0000
 # UPDATED: 2024-09-14 23:00:00
 payload:
-   - DOMAIN,ntdofifreepc.akamaized.net
-   - DOMAIN,ntdofifreepocpc.akamaized.net
-   - DOMAIN,ofissaifreepc.akamaized.net
-   - DOMAIN-SUFFIX,litv.tv
-   - DOMAIN-SUFFIX,ofiii.com
-   - DOMAIN-SUFFIX,4gtv.tv
-   - DOMAIN-SUFFIX,cdn.hinet.net
-   - DOMAIN-SUFFIX,ott.hinet.net
-   - DOMAIN-SUFFIX,insurancegogogo.com
-   - DOMAIN-KEYWORD,hamivideo
+  - DOMAIN,ntdofifreepc.akamaized.net
+  - DOMAIN,ntdofifreepocpc.akamaized.net
+  - DOMAIN,ofissaifreepc.akamaized.net
+  - DOMAIN-SUFFIX,litv.tv
+  - DOMAIN-SUFFIX,ofiii.com
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,cdn.hinet.net
+  - DOMAIN-SUFFIX,ott.hinet.net
+  - DOMAIN-SUFFIX,insurancegogogo.com
+  - DOMAIN-KEYWORD,hamivideo
