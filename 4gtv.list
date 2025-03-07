@@ -1,20 +1,18 @@
 # NAME: IPTV's 4gtv
 # AUTHOR: antn0000
 # UPDATED: 2024-09-14 23:00:00
-
- rules:
-  - DOMAIN,ntdofifreepc.akamaized.net,Taiwan
-  - DOMAIN,ntdofifreepocpc.akamaized.net,Taiwan
-  - DOMAIN,ofissaifreepc.akamaized.net,Taiwan
-  - DOMAIN-SUFFIX,litv.tv,Taiwan
-  - DOMAIN-SUFFIX,ofiii.com,Taiwan
-  - DOMAIN-SUFFIX,4gtv.tv,Taiwan
-  - DOMAIN-SUFFIX,cdn.hinet.net,Taiwan
-  - DOMAIN-SUFFIX,ott.hinet.net,Taiwan
-  - DOMAIN-SUFFIX,insurancegogogo.com,Taiwan
-  - DOMAIN-KEYWORD,hamivideo,Taiwan
-  - DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net,Taiwan
-  - DOMAIN-SUFFIX,live.iptv365.org,Taiwan
-  - DOMAIN-SUFFIX,ntdofifreevcpc.akamaized.net,Taiwan
-  - DOMAIN-SUFFIX,tv.iill.top,Taiwan
-  - DOMAIN-SUFFIX,epg.v1.mk,Taiwan
+  - DOMAIN,ntdofifreepc.akamaized.net
+  - DOMAIN,ntdofifreepocpc.akamaized.net
+  - DOMAIN,ofissaifreepc.akamaized.net
+  - DOMAIN-SUFFIX,litv.tv
+  - DOMAIN-SUFFIX,ofiii.com
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,cdn.hinet.net
+  - DOMAIN-SUFFIX,ott.hinet.net
+  - DOMAIN-SUFFIX,insurancegogogo.com
+  - DOMAIN-KEYWORD,hamivideo
+  - DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
+  - DOMAIN-SUFFIX,live.iptv365.org
+  - DOMAIN-SUFFIX,ntdofifreevcpc.akamaized.net
+  - DOMAIN-SUFFIX,tv.iill.top
+  - DOMAIN-SUFFIX,epg.v1.mk
