@@ -1,6 +1,4 @@
-# NAME: IPTV's 4gtv
-# AUTHOR: antn0000
-# UPDATED: 2024-09-14 23:00:00
+rules:
   - DOMAIN,ntdofifreepc.akamaized.net
   - DOMAIN,ntdofifreepocpc.akamaized.net
   - DOMAIN,ofissaifreepc.akamaized.net
